@@ -1,0 +1,10 @@
+{
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "d:\\embeddedsystems\\TDD\\TDD\\Unity\\build",
+      "binaryPath": "d:\\embeddedsystems\\TDD\\TDD\\Unity\\build\\TestDumbExample.exe",
+      "binaryArgs": []
+    }
+  ],
+  "cmake.sourceDirectory": "D:/embeddedsystems/TDD/TDD/Unity/Unity"
+}
